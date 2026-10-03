@@ -1,0 +1,8 @@
+PyQt6
+pyautogui
+mss
+requests
+pillow
+openai
+psutil
+pytesseract
