@@ -1,18 +1,21 @@
 # Desktop Automation Bot Copy
 
-Desktop Automation Bot Copy is a preserved copy of the desktop automation assistant project. The runnable source lives under the `omg` directory and includes UI panels, agent memory, LLM prompt handling, OCR helpers, screenshot capture, grid overlays, and mouse actions.
+Desktop Automation Bot Copy is another saved version of the Python desktop automation assistant.
 
-This repository is useful for comparing or continuing a later variant of the original `DesktopAutomationBot` codebase without mixing runtime logs and screenshots into version control.
+The runnable code is inside the `omg` folder. It includes a desktop UI, screenshot tools, OCR helpers, grid overlays, agent memory, prompt files, and mouse action helpers.
 
-## Features
+This repo is useful if you want to compare this version with the main `DesktopAutomationBot` project or continue work from this copy separately.
 
-- PyQt-style dashboard and bot interaction UI
-- Screenshot capture, preprocessing, and OCR modules
-- Grid and overlay UI helpers
-- Agent memory/session modules
-- LLM client and prompt definitions
-- Mouse action helpers
-- Runtime logging utilities
+## What This App Can Do
+
+- Show a desktop bot interface.
+- Capture screenshots.
+- Prepare images for OCR or vision work.
+- Display grid and overlay helpers.
+- Store agent memory and session data.
+- Use prompt files for AI task handling.
+- Include helper code for mouse actions.
+- Save logs while the app is running.
 
 ## Project Structure
 
@@ -38,7 +41,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Safety
+## Safety Notes
 
-This is a desktop automation tool. Run it first against non-sensitive applications and verify any generated action plan before allowing automation to control the mouse.
+This is a desktop automation experiment. Run it first on safe apps or test windows.
 
+Be careful before allowing any automation to control the mouse on important websites, private accounts, or payment pages.
