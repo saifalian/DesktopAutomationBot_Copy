@@ -12,6 +12,24 @@ Desktop Automation Bot Copy is another saved version of the Python desktop assis
 
 The goal is to keep the project easy to understand, easy to run, and useful for learning or further development.
 
+## Purpose And Idea
+
+**Purpose:** The purpose of this repo is to keep a separate saved version of the desktop automation assistant for testing and comparison.
+
+**Idea:** The idea is to preserve a working copy while the main project can keep changing. This makes it easier to compare versions and continue experiments safely.
+
+**Why I made it:** I made this copy so I can test desktop automation ideas without losing another version of the project.
+
+## Screenshots
+
+### Real desktop capture
+
+![Real desktop capture](docs/screenshots/real-desktop-capture.png)
+
+### Project preview
+
+![Project preview](docs/screenshots/preview.svg)
+
 ## Main Features
 
 - Runnable source inside omg
@@ -58,10 +76,6 @@ omg/main.py    App entry point
 2. Create and activate a Python virtual environment.
 3. Install requirements.txt.
 4. Run python main.py.
-
-## Screenshot
-
-The image above is a clean project preview for GitHub. It shows the main idea of the project in a simple way.
 
 ## Current Status
 
