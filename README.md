@@ -1,6 +1,5 @@
 # Desktop Automation Bot Copy
 
-![Desktop Automation Bot Copy preview](docs/screenshots/preview.svg)
 
 ## Short Description
 
@@ -25,10 +24,6 @@ The goal is to keep the project easy to understand, easy to run, and useful for 
 ### Real desktop capture
 
 ![Real desktop capture](docs/screenshots/real-desktop-capture.png)
-
-### Project preview
-
-![Project preview](docs/screenshots/preview.svg)
 
 ## Main Features
 
